@@ -1,9 +1,4 @@
 <p align="center">
-  <img src="assets/github/violink-banner-1280.png" alt="Violink — scriptable I/O bridge · COM · TCP · UDP → scripts → COM · TCP · UDP" width="100%">
-</p>
-
-
-<p align="center">
   A <b>Virtual</b> <b>I/O</b> <b>Link</b>
 </p>
 
